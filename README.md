@@ -1,7 +1,7 @@
 # Hi there, I'm Zeeshanali 👋
 
 ## 🚀 About Me
-🎓 Final-year Computer Science student at **Cardiff University** (Graduating July 2025). Passionate about solving real-world problems with technology and building innovative software solutions.
+🎓 Final-year Computer Science student at **Cardiff University**. Passionate about solving real-world problems with technology and building innovative software solutions.
 
 🔹 Experienced in **Solana smart contract development**, **full-stack web development**, and **machine learning applications**.
 
