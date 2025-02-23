@@ -3,6 +3,8 @@
 ## 🚀 About Me
 🎓 Final-year Computer Science student at **Cardiff University**. Passionate about solving real-world problems with technology and building innovative software solutions.
 
+🎓 **Turbin3** Grad Q3 2024 - Builders Cohort (Solana Smart Contract Developement)
+
 🔹 Experienced in **Solana smart contract development**, **full-stack web development**, and **machine learning applications**.
 
 🔹 Focused on **blockchain, automation, NLP, and AI-driven applications**.
