@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Zeeshanali 👋
 
-<!--
-**zsh28/zsh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Final-year Computer Science student at **Cardiff University** (Graduating July 2025). Passionate about solving real-world problems with technology and building innovative software solutions.
 
-Here are some ideas to get you started:
+🔹 Experienced in **Solana smart contract development**, **full-stack web development**, and **machine learning applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Focused on **blockchain, automation, NLP, and AI-driven applications**.
+
+🔹 Previously worked at **Risidio (Web3) and Kenya Association of Opticians**.
+
+## 🛠️ Tech Stack
+### 🌐 Frontend
+- **JavaScript | TypeScript | React.js | React Native | Next.js**
+- **Tailwind CSS | SASS | Redux | Prismic CMS | Styled Components**
+
+### ⚙️ Backend
+- **Node.js | Express.js | Django | Flask**
+- **PostgreSQL | MongoDB | MySQL | SQLite | Firebase | Neo4j**
+
+### ⛓ Blockchain & Smart Contracts
+- **Solana (Anchor, Rust)**
+
+### 🤖 AI & Data Science
+- **Python (NumPy, Pandas, Scikit-learn)**
+- **NLP | Sentiment Analysis | Machine Learning**
+
+### 🛠 Other Tools
+- **Docker | GitHub | Postman**
+
+## 📌 Featured Projects
+### 🔹 [Sports Hub (Solana)](https://github.com/zsh28/solana-builders-q3-2024/tree/master/capstone)
+- A decentralized sports betting platform on **Solana**.
+- Uses **Anchor framework** and **FPL API** for soccer events.
+
+### 🔹 [E-Prescriptions](https://github.com/zsh28/E-Prescriptions)
+- A **full-stack** e-prescription system built with **Django, PostgreSQL, and TypeScript**.
+- Implements **secure authentication, prescription management, and API endpoints**.
+
+## 📊 GitHub Stats
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsh28&show_icons=true&theme=blue-green)
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanali-gulamhusein)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zeeshdev28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white)](https://zeeshanali-g.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeesh28)
+---
