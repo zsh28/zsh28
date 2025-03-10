@@ -68,6 +68,9 @@
 - A **full-stack** e-prescription system built with **Django, PostgreSQL, and TypeScript**.
 - Implements **secure authentication, prescription management, and API endpoints**.
 
+### 🔹 [ha1iad3](https://ha1iad3.com/)
+- A platform that streamlines native staking of SOL with Turbin3's validator, offering comprehensive stake management.
+
 ## 📊 My Github Stats
 
 <a href="https://github.com/zsh28/github-readme-stats">
@@ -76,8 +79,6 @@
 <a href="https://github.com/zsh28/github-readme-stats">
   <img alt="Zeeshanali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117"/>
 </a>
-
-
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanali-gulamhusein)
