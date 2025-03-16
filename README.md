@@ -60,9 +60,10 @@
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)&nbsp;
 
 ## 📌 Featured Projects
-### 🔹 [Sports Hub (Solana)](https://github.com/zsh28/solana-builders-q3-2024/tree/master/capstone)
+### 🔹 [Sports Hub (Solana)](https://github.com/zsh28/sports-hub)
 - A decentralized sports betting platform on **Solana**.
 - Uses **Anchor framework** and **FPL API** for soccer events.
+- Link to the website of [Sports Hub](https://sports-hub-sol.vercel.app/)
 
 ### 🔹 [E-Prescriptions](https://github.com/zsh28/E-Prescriptions)
 - A **full-stack** e-prescription system built with **Django, PostgreSQL, and TypeScript**.
