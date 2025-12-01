@@ -121,28 +121,11 @@ function buildMarkdown(byRepo, sortedRepos) {
   let md = '\n';
 
   for (const repo of sortedRepos) {
-    const contribs = byRepo[repo];
-
-    md += `### 🔹 ${repo}\n\n`;
-
-    // Limit number per repo so README doesn't explode; tweak as you like
-    const maxPerRepo = 5;
-
-    for (const c of contribs.slice(0, maxPerRepo)) {
-      const emoji = statusEmoji(c.status);
-      const dateStr = formatDate(c.mergedAt || c.createdAt);
-      const labels = (c.labels || []).slice(0, 3); // show up to 3 labels
-      const labelsStr = labels.length ? ` _(labels: ${labels.join(', ')})_` : '';
-
-      md += `* ${emoji} [${c.title}](${c.url}) — **${c.status.toUpperCase()}**`;
-      if (dateStr) md += ` (${dateStr})`;
-      md += `${labelsStr}\n`;
-    }
-
-    md += '\n';
+    const repoUrl = `https://github.com/${repo}`;
+    md += `* [${repo}](${repoUrl})\n`;
   }
 
-  md += '> _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_\n';
+  md += '\n> _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_\n';
 
   return md;
 }
