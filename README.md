@@ -80,8 +80,6 @@
 
 ## 🧩 Open Source Contributions
 
-> This section is automatically generated from my OSS Contributions API.
-
 <!-- OSS-CONTRIB-START -->
 
 * [RalliSports/mono](https://github.com/RalliSports/mono)
@@ -99,9 +97,16 @@
 * [dotslashapaar/pinocchio-stake-program](https://github.com/dotslashapaar/pinocchio-stake-program)
 * [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm)
 
-> _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_
-
 <!-- OSS-CONTRIB-END -->
+
+## 📊 My Github Stats
+
+<a href="https://github.com/zsh28/github-readme-stats">
+  <img alt="Zeeshanali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zsh28&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/zsh28/github-readme-stats">
+  <img alt="Zeeshanali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117"/>
+</a>
 
 ## 🌍 Connect with Me
 
