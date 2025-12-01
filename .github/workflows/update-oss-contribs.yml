@@ -1,0 +1,42 @@
+name: Update OSS Contributions
+
+on:
+  # Run once a day
+  schedule:
+    - cron: '0 6 * * *' # 06:00 UTC daily
+  # And on manual trigger
+  workflow_dispatch: {}
+  # Optionally on push to main
+  # push:
+  #   branches: [ main, master ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update OSS Contributions section
+        run: npm run update-oss-contributions
+
+      - name: Commit and push changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update OSS contributions section"
+            git push
+          else
+            echo "No changes to commit"
+          fi

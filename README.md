@@ -75,8 +75,15 @@
 
 ### 🔹 [ha1iad3](https://ha1iad3.com/)
 
-* A staking management interface for Turbin3’s validator.
+* A staking management interface for Turbin3's validator.
 * Built with **Next.js and Solana integration** for viewing, delegating, and managing SOL stakes.
+
+## 🧩 Open Source Contributions
+
+> This section is automatically generated from my OSS Contributions API.
+
+<!-- OSS-CONTRIB-START -->
+<!-- OSS-CONTRIB-END -->
 
 ## 📊 My Github Stats
 

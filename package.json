@@ -1,0 +1,14 @@
+{
+  "name": "zsh28-profile",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Zeeshanali's GitHub profile with auto-generated OSS contributions",
+  "scripts": {
+    "update-oss-contributions": "node ./scripts/update-oss-contributions.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "author": "Zeeshanali Gulamhusein",
+  "license": "MIT"
+}
