@@ -97,6 +97,8 @@
 * [dotslashapaar/pinocchio-stake-program](https://github.com/dotslashapaar/pinocchio-stake-program)
 * [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm)
 
+> _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_
+
 <!-- OSS-CONTRIB-END -->
 
 ## 📊 My Github Stats
