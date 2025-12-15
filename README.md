@@ -95,7 +95,6 @@
 * [anagrambuild/swig-wallet](https://github.com/anagrambuild/swig-wallet)
 * [blueshift-gg/blueshift-dashboard](https://github.com/blueshift-gg/blueshift-dashboard)
 * [dotslashapaar/pinocchio-stake-program](https://github.com/dotslashapaar/pinocchio-stake-program)
-* [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm)
 
 > _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_
 
