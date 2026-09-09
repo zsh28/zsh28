@@ -73,12 +73,11 @@ I enjoy working across the full product lifecycle — from product design and in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zsh28&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0D1117" height="165" alt="Zeeshanali GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0D1117" height="165" alt="Zeeshanali Top Languages" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=zsh28&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/zsh28?style=for-the-badge&color=blue&label=Followers)
+![Stars](https://img.shields.io/github/stars/zsh28?style=for-the-badge&color=blue&label=Stars)
 
 
 ---
