@@ -1,117 +1,98 @@
-# Hi there, I'm Zeeshanali 👋
+# Hi, I'm Zeeshanali 👋
 
-## 🚀 About Me
+I'm a **Full-Stack Engineer** focused on building fast, polished products with **Next.js, TypeScript, React, Node.js, and Solana/Web3**, with experience across frontend architecture, backend systems, wallet integrations, on-chain data, real-time applications, and transaction-heavy user experiences.
 
-🎓 First-Class Honours Computer Science graduate from **Cardiff University** with a strong foundation in programming, smart contracts, and full-stack development.
+I graduated with **First-Class Honours in Computer Science from Cardiff University** and currently build at **Zivala**. Previously, I've worked with **Moazyx**, **Ralli.bet, Anagram, Menageri3, and Risidio**.
 
-🛠️ Experienced in **Solana smart contract development** and **full-stack Web3 applications**.
+I enjoy working across the full product lifecycle — from product design and intuitive interfaces to APIs, databases, real-time systems, blockchain infrastructure, observability, and production deployments.
 
-🏗️ Built real-world dApps and smart contracts through **Turbin3's Builders Cohort (Q3 2024)** and professional experience at **Anagram.xyz** and **Risidio**.
+---
 
-🌍 Passionate about **blockchain infrastructure**, **automation**, and **AI-driven systems**, with a background in both Web2 and Web3 technologies.
+## 🛠️ Tech Stack
 
-## 🛠️ My Stack
+### Frontend
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Prismic CMS](https://img.shields.io/badge/-Prismic_CMS-05122A?style=flat&logo=prismic)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+### Backend
 
-### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### ⛓ Blockchain & Smart Contracts
-![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=solana)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![Anchor](https://img.shields.io/badge/-Anchor-05122A?style=flat&logo=solana)&nbsp;
+### Databases & Data
 
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=ai)&nbsp;
-![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-05122A?style=flat&logo=ai)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=ai)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000)
 
-### 🛠 Other Tools
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)&nbsp;
+### Blockchain / Web3
 
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=solana&logoColor=white)
+![Pinocchio](https://img.shields.io/badge/Pinocchio-Solana_Programs-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Wallet Integrations](https://img.shields.io/badge/Wallet_Integrations-512DA8?style=for-the-badge&logo=walletconnect&logoColor=white)
 
-## 📌 Featured Projects
+### Infrastructure & Tooling
 
-### 🔹 [Sports Hub (Solana)](https://github.com/zsh28/sports-hub)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-* A decentralized sports betting platform on **Solana**, built using **Rust + Anchor**.
-* Integrates the **FPL API** to auto-generate events and manage bets and rewards on-chain.
-* Capstone project for Turbin3’s Solana Smart Contract cohort.
-  🔗 [Live Demo](https://sports-hub-sol.vercel.app/)
+---
 
-### 🔹 [E-Prescriptions](https://github.com/zsh28/E-Prescriptions)
+## ⚡ What I Work On
 
-* A full-stack medical prescription system using **Django, PostgreSQL, and TypeScript**.
-* Features secure authentication, prescription tracking, and API endpoints for pharmacy integration.
+- Full-stack web and mobile applications
+- Frontend architecture and polished product experiences
+- TypeScript APIs and backend services
+- Solana wallet integrations and transaction flows
+- On-chain data and blockchain-powered products
+- Real-time systems using WebSockets
+- PostgreSQL, Redis, and application data layers
+- CI/CD, observability, and production infrastructure
+- Translating Figma designs into responsive, production-ready interfaces
 
-### 🔹 [ha1iad3](https://ha1iad3.com/)
+---
 
-* A staking management interface for Turbin3's validator.
-* Built with **Next.js and Solana integration** for viewing, delegating, and managing SOL stakes.
+## 📊 GitHub
 
-## 🧩 Open Source Contributions
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zsh28&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github"
+    height="165"
+    alt="Zeeshanali GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000"
+    height="165"
+    alt="Zeeshanali Top Languages"
+  />
+</p>
 
-<!-- OSS-CONTRIB-START -->
+---
 
-* [RalliSports/mono](https://github.com/RalliSports/mono)
-* [TheMenageri3/mono](https://github.com/TheMenageri3/mono)
-* [anagrambuild/swig-ts](https://github.com/anagrambuild/swig-ts)
-* [anagrambuild/swig-sdk-dapp-examples](https://github.com/anagrambuild/swig-sdk-dapp-examples)
-* [anagrambuild/swig-docs](https://github.com/anagrambuild/swig-docs)
-* [gillsdk/gill](https://github.com/gillsdk/gill)
-* [Turbin3/P-lend](https://github.com/Turbin3/P-lend)
-* [samui-build/samui-wallet](https://github.com/samui-build/samui-wallet)
-* [solana-foundation/templates](https://github.com/solana-foundation/templates)
-* [txtx/surfpool](https://github.com/txtx/surfpool)
-* [anagrambuild/swig-wallet](https://github.com/anagrambuild/swig-wallet)
-* [blueshift-gg/blueshift-dashboard](https://github.com/blueshift-gg/blueshift-dashboard)
-* [dotslashapaar/pinocchio-stake-program](https://github.com/dotslashapaar/pinocchio-stake-program)
+## 🌍 Connect
 
-> _Auto-generated from [`/api/oss-contributions/displayed`](https://zeeshanali-g.netlify.app/api/oss-contributions/displayed)_
-
-<!-- OSS-CONTRIB-END -->
-
-## 📊 My Github Stats
-
-<a href="https://github.com/zsh28/github-readme-stats">
-  <img alt="Zeeshanali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zsh28&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/zsh28/github-readme-stats">
-  <img alt="Zeeshanali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117"/>
-</a>
-
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/zeeshanali-gulamhusein)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/zeeshdev28)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=globe\&logoColor=white)](https://zeeshanali-g.netlify.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/zeesh28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeeshanali_Gulamhusein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanali-gulamhusein)
+[![GitHub](https://img.shields.io/badge/GitHub-zsh28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zsh28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://zeeshanali-g.netlify.app/)
+[![X](https://img.shields.io/badge/X-zeeshdev28-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zeeshdev28)
