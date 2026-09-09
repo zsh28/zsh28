@@ -73,20 +73,13 @@ I enjoy working across the full product lifecycle — from product design and in
 
 ---
 
-## 📊 GitHub
-
+## 📊 GitHub Stats
+ 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zsh28&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github"
-    height="165"
-    alt="Zeeshanali GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000"
-    height="165"
-    alt="Zeeshanali Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zsh28&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0D1117" height="165" alt="Zeeshanali GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsh28&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0D1117" height="165" alt="Zeeshanali Top Languages" />
 </p>
+
 
 ---
 
